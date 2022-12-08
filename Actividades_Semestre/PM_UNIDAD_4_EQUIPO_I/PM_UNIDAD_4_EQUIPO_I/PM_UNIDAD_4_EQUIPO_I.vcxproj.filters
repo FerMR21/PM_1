@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P_0_Plantilla.asm" />
+    <MASM Include="P_1_Arreglo.asm" />
+    <MASM Include="P_2_Arreglo_V2.asm" />
+    <MASM Include="P_3_Arreglo_V_2.asm" />
+    <MASM Include="E_1_ Recorrer_Arreglo.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_3_BuscarNum.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_2_ Min_Max.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_4_Prom_Arreglo.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_5_Imprimir_Par_en_Arreglo.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_6_Suma_Arreglo.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="P7_WaitMsg.asm" />
+    <MASM Include="P_8_MsgBox.asm" />
+    <MASM Include="P_9_Delay.asm" />
+    <MASM Include="E_7_Suma_Arreglo_Comparacion.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_8_Arreglos_Intercalados.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_9_Tablas_Multiplicar.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="P_10_Matrices.asm" />
+    <MASM Include="Matriz_V3_12.asm" />
+    <MASM Include="P_13_Matriz_v3.asm" />
+    <MASM Include="P_14_Matriz.asm" />
+    <MASM Include="P_15_Matriz_Suma_Columnas.asm" />
+    <MASM Include="P_16_Matriz_Suma_Filas.asm" />
+    <MASM Include="P_17_Matriz_Prom_Filas.asm" />
+    <MASM Include="P_18_Matriz_Prom_Columnas.asm" />
+    <MASM Include="E_10_May_Men_Matriz_Filas.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Ejercicios">
+      <UniqueIdentifier>{b82f1db6-d0dc-4cf6-aa3a-1e41aa26bcaf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
