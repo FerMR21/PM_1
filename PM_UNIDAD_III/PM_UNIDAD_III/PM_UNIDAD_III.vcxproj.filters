@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="..\..\..\..\..\..\..\source\repos\PM_UNIDAD_2\PM_UNIDAD_2\Plantilla_0.asm" />
+    <MASM Include="P_1_LeerCadena.asm" />
+    <MASM Include="P_2_Aleatorio_Intro.asm" />
+    <MASM Include="P_3_RandomRange.asm" />
+    <MASM Include="P_4_AdivinarNumero.asm" />
+    <MASM Include="E_1_Costo_Viaticos.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="P_5_Curva_Loca.asm" />
+    <MASM Include="P_6_Tienda_Lapices.asm" />
+    <MASM Include="E_2_Costo_llamada.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_3_Costo_Estancia_Hotel.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="E_4_Num_Mayor.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="T_1_Area_Terreno.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="T_2_Curva_Loca_V2.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="T_3_Harapiento.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+    <MASM Include="P7_Tablas_Multiplicar.asm">
+      <Filter>Ejercicios</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Ejercicios">
+      <UniqueIdentifier>{431d361d-904a-4339-b6f4-db0272c17c39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
