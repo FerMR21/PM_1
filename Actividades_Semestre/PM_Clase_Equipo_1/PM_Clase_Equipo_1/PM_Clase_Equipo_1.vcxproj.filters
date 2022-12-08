@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P_0_Plantilla.asm" />
+    <MASM Include="P_1_Variables_TiposDato.asm" />
+    <MASM Include="P_2_OpArirtmetica.asm" />
+    <MASM Include="P_3_OpAritmetica2.asm" />
+    <MASM Include="P_4_OpAritmeticas3.asm" />
+    <MASM Include="P_5_OpAritmeticas.asm" />
+    <MASM Include="P6_Ecuaciones_Primer_Grado.asm" />
+    <MASM Include="P7_PromNums.asm" />
+    <MASM Include="P_8_IMC.asm" />
+    <MASM Include="T1_Trapecio.asm" />
+    <MASM Include="T2_Prom_Salario.asm" />
+    <MASM Include="T3_Punto_Medio.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
